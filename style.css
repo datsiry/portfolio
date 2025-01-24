@@ -75,7 +75,7 @@ h1.titre {
 }
 
 div.blobs {
-    position: relative;
+    position: absolute;
     filter: blur(2px);
     transform: rotate(62deg);
     z-index: -2;
