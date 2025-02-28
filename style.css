@@ -89,7 +89,7 @@ div.blobs {
     padding: 50px 0 50px 0;
 }
 
-#competences h1 {
+#competences,#projets h1 {
     color: rgb(255, 255, 255);
     animation: trans 1.5s;
     text-shadow: 2px 1px 20px black;
