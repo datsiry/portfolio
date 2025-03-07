@@ -430,3 +430,9 @@ section {
         display: block;
     }
 }
+@media screen and (max-width: 500px) {
+    #projets img {
+        max-width:300px;
+        height:220px
+    }
+}
