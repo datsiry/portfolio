@@ -113,12 +113,12 @@ div.blobs {
     grid-row-gap: 30px;
 }
 
-img#logo {
+img.logo {
     width: 35px;
     height: 35px;
 }
 
-.professional img#logo {
+.professional img.logo {
     border-radius: 50%;
     box-shadow: 1px 1px 6px 0px #00ffff99;
     width: 45px;
